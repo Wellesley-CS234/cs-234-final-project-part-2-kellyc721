@@ -7,11 +7,11 @@ import plotly.express as px
 # Load data
 # --------------------------
 @st.cache_data
-def load_data(path):
-    df = pd.read_csv(path)
+def load_data():
+    df = pd.read_csv("data/covid_articles_matched_qids.csv")
     return df
 
-df = load_data("data/covid_articles_matched_qids.csv")
+df = load_data()
 df["date"] = pd.to_datetime(df["date"])
 
 st.title("Shifts in COVID-19 Global Public Interest")
@@ -81,6 +81,26 @@ bar_year = alt.Chart(yearly).mark_bar().encode(
 
 st.altair_chart(bar_year, use_container_width=True)
 
+# --------------------------
+# 3. Top Articles by Total Views
+# --------------------------
+st.subheader("Top 10 Most Popular COVID-19 Articles (2023–2024)")
+
+top_articles = (
+    df.groupby("article")["pageviews"]
+    .sum()
+    .reset_index()
+    .sort_values("pageviews", ascending=False)
+    .head(10)
+)
+
+bar = alt.Chart(top_articles).mark_bar().encode(
+    x=alt.X("pageviews:Q", title="Total Pageviews"),
+    y=alt.Y("article:N", sort='-x', title="Article", axis=alt.Axis(labelLimit=300)),
+).properties(height=500)
+
+st.altair_chart(bar, use_container_width=True)
+
 # -------------------------------------------------------
 # Monthly Pageviews for Top 10 Articles 
 # -------------------------------------------------------
@@ -143,26 +163,6 @@ monthly_chart = (
 st.altair_chart(monthly_chart, use_container_width=True)
 
 # --------------------------
-# 3. Top Articles by Total Views
-# --------------------------
-st.subheader("Top 10 Most Popular COVID-19 Articles (2023–2024)")
-
-top_articles = (
-    df.groupby("article")["pageviews"]
-    .sum()
-    .reset_index()
-    .sort_values("pageviews", ascending=False)
-    .head(10)
-)
-
-bar = alt.Chart(top_articles).mark_bar().encode(
-    x=alt.X("pageviews:Q", title="Total Pageviews"),
-    y=alt.Y("article:N", sort='-x', title="Article", axis=alt.Axis(labelLimit=300)),
-).properties(height=500)
-
-st.altair_chart(bar, use_container_width=True)
-
-# --------------------------
 # Category Analysis by Text Classification
 # --------------------------
 st.subheader("COVID-19 Articles Category Distribution")
@@ -185,7 +185,11 @@ candidate_categories = [
 ]
 df_cc = pd.DataFrame({"Categories": candidate_categories})
 
-df_category = load_data("data/predicted_categories.csv")
+def load_category_data():
+    df = pd.read_csv("data/predicted_categories.csv")
+    return df
+
+df_category = load_category_data()
 
 col1, col2 = st.columns([1, 3])
 with col1:
@@ -198,7 +202,7 @@ with col1:
 
 with col2:
     st.markdown("#### Classification Prediction Data") 
-    st.dataframe(df_category.head(30), column_config={"article": st.column_config.Column(width=320)}, use_container_width=False)
+    st.dataframe(df_category.head(10), column_config={"article": st.column_config.Column(width=320)}, use_container_width=False)
 
 pred_counts = df_category["predicted_label"].value_counts().reset_index()
 pred_counts.columns = ["category", "count"]
@@ -207,13 +211,6 @@ pred_counts["type"] = "Predicted"
 gt_counts = df_category["ground_truth"].value_counts().reset_index()
 gt_counts.columns = ["category", "count"]
 gt_counts["type"] = "True"
-
-st.subheader("Predicted Category Counts")
-st.dataframe(pred_counts)
-
-st.subheader("Ground Truth Category Counts")
-st.dataframe(gt_counts)
-
 
 combined = pd.concat([pred_counts, gt_counts], ignore_index=True)
 
