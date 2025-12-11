@@ -1,0 +1,684 @@
+label,true_category
+COVID-19,disease
+COVID-19 pandemic lockdown,lockdown
+COVID-19 misinformation,misinformation
+COVID-19 misinformation by China,misinformation
+COVID-19 pandemic misinformation by governments,misinformation
+Misinformation related to the COVID-19 pandemic by the United States,misinformation
+COVID-19 pandemic,disease
+COVID-19 pandemic by country and territory,disease
+COVID-19 rapid antigen test,disease
+COVID-19 vaccine,vaccine
+COVID-19 vaccine card,vaccine
+COVID-19 vaccine misinformation and hesitancy,misinformation
+ivermectin during the COVID-19 pandemic,treatment
+long covid,disease
+pathogen transmission,disease
+SARS-CoV-2,disease
+social distancing,societal impact
+timeline of the COVID-19 pandemic,timeline
+2019–2020 COVID-19 outbreak in mainland China,disease
+2020 stock market crash,societal impact
+2021 Malaysian state of emergency,lockdown
+Access to COVID-19 Tools Accelerator,other
+acute respiratory distress syndrome,disease
+Anders Tegnell,human
+Anthony Fauci,human
+antibody-dependent enhancement,treatment
+asymptomatic carrier,disease
+SARS-CoV-2 lineage BA.2.86,variant
+basic reproduction number,other
+COVAX,vaccine
+COVID-19 app,other
+COVID-19 drug development,treatment
+COVID-19 drug repurposing research,treatment
+COVID-19 hospital,facility
+COVID-19 lab leak theory,disease
+COVID-19 local lockdown regulations in England,lockdown
+COVID-19 lockdown in China,lockdown
+COVID-19 pandemic in Africa,disease
+COVID-19 pandemic in Algeria,disease
+COVID-19 pandemic in Angola,disease
+2020 COVID-19 pandemic in Antigua and Barbuda,disease
+COVID-19 pandemic in Argentina,disease
+COVID-19 pandemic in Asia,disease
+COVID-19 pandemic in Bangladesh,disease
+2020 COVID-19 pandemic in Barbados,disease
+COVID-19 pandemic in Benin,disease
+2020 COVID-19 pandemic in Bermuda,disease
+COVID-19 pandemic in Burundi,disease
+COVID-19 pandemic in Ceuta,disease
+COVID-19 pandemic in Crimea,disease
+COVID-19 pandemic in El Salvador,disease
+2020 COVID-19 pandemic in Equatorial Guinea,disease
+COVID-19 pandemic in Europe,disease
+2020 COVID-19 pandemic in Gabon,disease
+COVID-19 pandemic in Georgia,disease
+2020 COVID-19 pandemic in Guinea-Bissau,disease
+COVID-19 pandemic in Haiti,disease
+COVID-19 pandemic in India,disease
+COVID-19 pandemic in Iran,disease
+COVID-19 pandemic in Iraq,disease
+COVID-19 pandemic in Italy,disease
+2020 COVID-19 pandemic in Liberia,disease
+COVID-19 pandemic in Mali,disease
+COVID-19 pandemic in Mauritania,disease
+COVID-19 pandemic in Melilla,disease
+2020 COVID-19 pandemic in Michigan,disease
+COVID-19 pandemic in New York City,disease
+2020 COVID-19 pandemic in Niger,disease
+COVID-19 pandemic in North America,disease
+COVID-19 pandemic in Oceania,disease
+COVID-19 pandemic in Panama,disease
+2020 COVID-19 pandemic in Sierra Leone,disease
+COVID-19 pandemic in South America,disease
+COVID-19 pandemic in West Bengal,disease
+COVID-19 pandemic in China,disease
+2020 COVID-19 pandemic in the Central African Republic,disease
+2020 COVID-19 pandemic in the Gambia,disease
+2020 COVID-19 pandemic in the Republic of the Congo,disease
+COVID-19 pandemic on USS Theodore Roosevelt,disease
+COVID-19 recession,societal impact
+COVID-19 seasonality,societal impact
+COVID-19 test,disease
+COVID-19 vaccination in Africa,vaccine
+COVID-19 vaccination in Cape Verde,vaccine
+COVID-19 vaccination in Greece,vaccine
+COVID-19 vaccination in Haiti,vaccine
+COVID-19 vaccination in Iceland,vaccine
+COVID-19 vaccination programme in India,vaccine
+COVID-19 vaccination in Kazakhstan,vaccine
+COVID-19 vaccination in New Zealand,vaccine
+COVID-19 vaccination in Senegal,vaccine
+COVID-19 vaccination in Singapore,vaccine
+COVID-19 vaccination in South Africa,vaccine
+COVID-19 vaccination programme in Spain,vaccine
+COVID-19 vaccination in Sri Lanka,vaccine
+COVID-19 vaccination in Taiwan,vaccine
+COVID-19 vaccination in Thailand,vaccine
+COVID-19 vaccine clinical research,vaccine
+COVIDSafe,other
+Chinese government response to COVID-19,response
+chloroquine,treatment
+contact tracing,disease
+Coronavirus,disease
+David Manning,human
+deployment of COVID-19 vaccines,vaccine
+dexamethasone,treatment
+vector,disease
+economic impact of the COVID-19 pandemic in the United States,societal impact
+Emergency evacuation procedures during the COVID-19 pandemic,lockdown
+emergent virus,disease
+Endemic phase of COVID-19,disease
+face masks during the COVID-19 pandemic,societal impact
+GISAID,other
+Grand Princess,other
+herd immunity,disease
+history of COVID-19 vaccine development,vaccine
+History of the COVID-19 pandemic in the United Kingdom,disease
+Wuhan Huanan Seafood Wholesale Market,other
+INSACOG,other
+impact of the COVID-19 pandemic on cinema,societal impact
+impact of the COVID-19 pandemic on education,societal impact
+impact of the COVID-19 pandemic on social media,societal impact
+international non-essential travel,other
+Katalin Karikó,human
+Li Wenliang,human
+list of COVID-19 vaccine authorizations,vaccine
+list of deaths due to COVID-19,disease
+MS Zaandam,other
+Michael J. Ryan,human
+pediatric multisystem inflammatory syndrome,disease
+national responses to the COVID-19 pandemic,response
+nirmatrelvir,treatment
+nirmatrelvir/ritonavir,treatment
+Noor Hisham Abdullah,human
+Operation Warp Speed,government
+AZD1222,vaccine
+Peter Daszak,human
+Pfizer–BioNTech COVID-19 vaccine,vaccine
+political impact of the COVID-19 pandemic,societal impact
+public health,disease
+Randomised Evaluation of COVID-19 Therapy,treatment
+Racial Disparities in the COVID-19 pandemic in the United States,societal impact
+remdesivir,treatment
+risk factor,disease
+ritonavir,treatment
+Roberto Speranza,human
+SARS-CoV-2 Beta variant,variant
+SARS-CoV-2 Delta variant,variant
+SARS-CoV-2 Gamma variant,variant
+SARS-CoV-2 Iota variant,variant
+SARS-CoV-2 Kappa variant,variant
+SARS-CoV-2 Lambda variant,variant
+SARS-CoV-2 Omicron variant,variant
+SARSr-CoV,disease
+silent hypoxia,other
+Solidarity Trial,treatment
+Statistics of the COVID-19 pandemic in the United States,disease
+symptoms of COVID-19,disease
+Tedros Adhanom Ghebreyesus,human
+timeline of the COVID-19 pandemic in 2019,timeline
+Timeline of the COVID-19 pandemic in April 2020,timeline
+timeline of the COVID-19 pandemic in August 2020,timeline
+Timeline of the COVID-19 pandemic in Australia,timeline
+timeline of the COVID-19 pandemic in Australia,timeline
+timeline of the COVID-19 pandemic in Australia,timeline
+Timeline of the COVID-19 pandemic in February 2020,timeline
+timeline of the COVID-19 pandemic in Italy,timeline
+Timeline of the COVID-19 pandemic in January 2020,timeline
+timeline of the COVID-19 pandemic in July 2020,timeline
+Timeline of the COVID-19 pandemic in June 2020,timeline
+Timeline of the COVID-19 pandemic in March 2020,timeline
+Timeline of the COVID-19 pandemic in May 2020,timeline
+Timeline of the COVID-19 pandemic in New York City,timeline
+timeline of the COVID-19 pandemic in November 2020,timeline
+timeline of the COVID-19 pandemic in October 2020,timeline
+timeline of the COVID-19 pandemic in September 2020,timeline
+timeline of the COVID-19 pandemic in September 2021,timeline
+tocilizumab,treatment
+transmission of COVID-19,disease
+treatment of COVID-19,treatment
+triage,treatment
+United Kingdom legislation connected with the COVID-19 pandemic,government
+variants of SARS-CoV-2,variant
+ventilation,other
+"International Treaty on Pandemic Prevention, Preparedness and Response",government
+World Health Organization,government
+xenophobia and racism related to the COVID-19 pandemic,societal impact
+Zhang Jixian,human
+2002–2004 SARS outbreak,disease
+202-CoV,vaccine
+Danish mink cull,other
+2020 Summer Olympics,other
+2020 Tablighi Jamaat coronavirus hotspot in Delhi,disease
+2020 Vijayawada fire,other
+2020–21 NHL season,other
+2021 Idar-Oberstein shooting,other
+2021 hospital crisis in the U.S. from COVID-19,facility
+COVID-19 pandemic in Shanghai March 2022,disease
+2022 Wellington protests,societal impact
+SARS coronavirus main proteinase,disease
+Misinformation related to 5G technology,misinformation
+76 Days,other
+ABNCoV2,vaccine
+AG0302-COVID‑19,vaccine
+AKS-452,vaccine
+Lunar-COV19,vaccine
+ARCT-154,vaccine
+AbC-19 rapid antibody test,treatment
+Abdala,vaccine
+Abingdon Health,government
+airborne disease,disease
+ACE2,other
+anthropause,human
+SARS-CoV-2 lineage BA.3.2,variant
+bamlanivimab,treatment
+Biden Administration COVID-19 action plan,government
+Biosecurity in Australia,government
+BlueDot,other
+BriLife,vaccine
+Government of the United Kingdom's financial response to the COVID-19 pandemic,government
+Bruce Aylward,human
+"Coronavirus Aid, Relief, and Economic Security Act",government
+COH04S1,vaccine
+COVI-VAC,vaccine
+COVID-19 Contact-Confirming Application,other
+COVID-19 Genomics UK Consortium,other
+COVID-19 Pandemic Unemployment Payment,lockdown
+COVID-19 Solidarity Response Fund,response
+COVID-19 Supply Council,government
+COVID-19 and cancer,societal impact
+COVID-19 community quarantines in the Philippines,lockdown
+COVID-19 denial,misinformation
+COVID-19 eviction moratoriums in the United States,government
+COVID-19 disease in pregnancy,disease
+COVID-19 pandemic lockdown in India,lockdown
+COVID-19 lockdown in the United Kingdom,lockdown
+COVID-19 misinformation in the Philippines,misinformation
+COVID-19 pandemic in Abkhazia,disease
+2020 COVID-19 pandemic in Akrotiri and Dhekelia,disease
+COVID-19 pandemic in Albania,disease
+2020 COVID-19 pandemic in Alberta,disease
+COVID-19 pandemic in American Samoa,disease
+2020 COVID-19 pandemic in Andorra,disease
+COVID-19 pandemic in Armenia,disease
+2020 COVID-19 pandemic in Assam,disease
+COVID-19 pandemic in Asturias,disease
+COVID-19 pandemic in Australia,disease
+COVID-19 pandemic in Austria,disease
+2020 COVID-19 pandemic in Azerbaijan,disease
+COVID-19 pandemic in Belarus,disease
+COVID-19 pandemic in Belgium,disease
+2020 COVID-19 pandemic in Belize,disease
+2020 COVID-19 pandemic in Bosnia and Herzegovina,disease
+COVID-19 pandemic in Bulgaria,disease
+COVID-19 pandemic in California,disease
+COVID-19 pandemic in Canada,disease
+COVID-19 pandemic in China,disease
+COVID-19 pandemic in Croatia,disease
+COVID-19 pandemic in Denmark,disease
+2020 COVID-19 pandemic in Easter Island,disease
+COVID-19 pandemic in Egypt,disease
+COVID-19 pandemic in Estonia,disease
+COVID-19 pandemic in Ethiopia,disease
+COVID-19 pandemic in Finland,disease
+COVID-19 pandemic in France,disease
+2020 COVID-19 pandemic in French Guiana,disease
+2020 COVID-19 pandemic in French Polynesia,disease
+COVID-19 pandemic in Gagauzia,disease
+COVID-19 pandemic in Germany,disease
+2020 COVID-19 pandemic in Gibraltar,disease
+COVID-19 pandemic in Greece,disease
+2020 COVID-19 pandemic in Grenada,disease
+COVID-19 pandemic in Guadeloupe,disease
+COVID-19 pandemic in Henan,disease
+COVID-19 pandemic in Hubei,disease
+COVID-19 pandemic in Hungary,disease
+COVID-19 pandemic in Iceland,disease
+2020 COVID-19 pandemic in Illinois,disease
+COVID-19 pandemic in Israel,disease
+COVID-19 pandemic in Japan,disease
+COVID-19 pandemic in Kazakhstan,disease
+COVID-19 pandemic in Kosovo,disease
+COVID-19 pandemic in Latvia,disease
+2020 COVID-19 pandemic in Liechtenstein,disease
+COVID-19 pandemic in Lithuania,disease
+COVID-19 pandemic in Luxembourg,disease
+COVID-19 pandemic in Malta,disease
+2020 COVID-19 pandemic in Martinique,disease
+2020 COVID-19 pandemic in Mayotte,disease
+COVID-19 pandemic in Metro Manila,disease
+COVID-19 pandemic in Moldova,disease
+2020 COVID-19 pandemic in Monaco,disease
+2020 COVID-19 pandemic in Mozambique,disease
+2020 COVID-19 pandemic in Myanmar,disease
+2020 COVID-19 pandemic in Nagaland,disease
+COVID-19 pandemic in New Caledonia,disease
+2020 COVID-19 pandemic in New Hampshire,disease
+COVID-19 pandemic in New York,disease
+COVID-19 pandemic in Newfoundland and Labrador,disease
+COVID-19 pandemic in North Korea,disease
+2020 COVID-19 pandemic in North Macedonia,disease
+COVID-19 pandemic in Norway,disease
+COVID-19 pandemic in Poland,disease
+COVID-19 pandemic in Portugal,disease
+2020 COVID-19 pandemic in Prince Edward Island,disease
+2020 COVID-19 pandemic in Rhode Island,disease
+COVID-19 pandemic in Romania,disease
+COVID-19 pandemic in Russia,disease
+COVID-19 pandemic in Saint Helena,disease
+2020 COVID-19 pandemic in Saint Pierre and Miquelon,disease
+COVID-19 pandemic in Saint Vincent and the Grenadines,disease
+COVID-19 pandemic in San Marino,disease
+COVID-19 pandemic in Singapore,disease
+COVID-19 pandemic in Slovakia,disease
+COVID-19 pandemic in Slovenia,disease
+COVID-19 pandemic in Somaliland,disease
+COVID-19 pandemic in South Africa,disease
+COVID-19 pandemic in South Korea,disease
+COVID-19 pandemic in South Ossetia,disease
+COVID-19 pandemic in Spain,disease
+COVID-19 pandemic in Sri Lanka,disease
+COVID-19 pandemic in Sweden,disease
+COVID-19 pandemic in Switzerland,disease
+2020 COVID-19 pandemic in São Tomé and Príncipe,disease
+COVID-19 pandemic in Taiwan,disease
+2020 COVID-19 pandemic in Tamil Nadu,disease
+COVID-19 pandemic in Togo,disease
+2020 COVID-19 pandemic in Transnistria,disease
+COVID-19 pandemic in Turkey,disease
+2020 COVID-19 pandemic in Uganda,disease
+COVID-19 pandemic in Ukraine,disease
+COVID-19 pandemic in Vatican City,disease
+COVID-19 pandemic in Venezuela,disease
+COVID-19 pandemic in Wallis and Futuna,disease
+2020 COVID-19 pandemic in Western Sahara,disease
+2020 COVID-19 pandemic in Zambia,disease
+COVID-19 pandemic in popular culture,societal impact
+2020 COVID-19 pandemic in the Cayman Islands,disease
+COVID-19 pandemic in the Czech Republic,disease
+2020 COVID-19 pandemic in the Falkland Islands,disease
+2020 COVID-19 pandemic in the Isle of Man,disease
+COVID-19 pandemic in the Kurdistan Region,disease
+2020 COVID-19 pandemic in the Navajo Nation,disease
+COVID-19 pandemic in the Netherlands,disease
+COVID-19 pandemic in the Philippines,disease
+COVID-19 pandemic in the Republic of Ireland,disease
+COVID-19 pandemic in the Solomon Islands,disease
+COVID-19 pandemic in the United Kingdom,disease
+COVID-19 pandemic in the United States,disease
+COVID-19 protests in the Republic of Ireland,societal impact
+2020 United States anti-lockdown protests,societal impact
+COVID-19 Surveillance,disease
+COVID-19 testing in the United States,disease
+COVID-19 vaccination in Albania,vaccine
+COVID-19 vaccination in Australia,vaccine
+COVID-19 vaccination in Bhutan,vaccine
+COVID-19 vaccination in Canada,vaccine
+COVID-19 vaccination in Hungary,vaccine
+COVID-19 vaccination in Japan,vaccine
+COVID-19 vaccination in Moldova,vaccine
+COVID-19 vaccination in Romania,disease
+COVID-19 vaccination in mainland China‎,vaccine
+COVID-19 vaccination in the Republic of Ireland,vaccine
+COVID-19 vaccination in the United States,vaccine
+COVID-19 vaccine mandate,vaccine
+COVID-19 vaccine hesitancy in the United States,vaccine
+COVID Moonshot,disease
+COVIran Barekat,vaccine
+California government response to the COVID-19 pandemic,response
+Calvin Sun,human
+Tom Moore,human
+case fatality rate,disease
+Centers for Disease Control and Prevention,government
+Chen Wei,human
+ChinaAngVirus disinformation campaign,misinformation
+Chinese Academy of Medical Sciences COVID-19 vaccine,vaccine
+chloroquine and hydroxychloroquine during the COVID-19 pandemic,treatment
+Cluster 5 Outbreak,disease
+Medicago Inc. COVID-19 vaccine candidate,vaccine
+concerns and controversies at the 2020 Summer Olympics,societal impact
+conjugate vaccine,vaccine
+"Consolidated Appropriations Act, 2021",government
+COVID-19 contracts in the United Kingdom,government
+Ad5-nCoV,vaccine
+Corbevax,vaccine
+CoronaVac,vaccine
+Coronaviridae,other
+Coronavirus breathalyzer,other
+Case Covaxin,vaccine
+Covaxin / BBV152,vaccine
+CoviVac,vaccine
+Covid Watch,other
+CoviVac,vaccine
+zorecimeran,vaccine
+Darvinson Rojas,human
+Decentralized Privacy-Preserving Proximity Tracing,disease
+DelNS1-2019-nCoV-RBD-OPT,vaccine
+Diamond Princess,other
+digital contact tracing,disease
+disease cluster,disease
+Drew Weissman,human
+Eastern States Multi-state Council,government
+economic impact of the COVID-19 pandemic,societal impact
+Educational crisis in Ethiopia since 2020,societal impact
+emerging communicable disease,disease
+Enhanced community quarantine in Luzon,lockdown
+ensitrelvir,treatment
+EpiVacCorona,vaccine
+EuCorVac-19,vaccine
+European Union response to the COVID-19 pandemic,response
+evacuations related to the COVID-19 pandemic,lockdown
+EveryDoctor,other
+Exposure Notification,other
+extracorporeal membrane oxygenation,other
+FAKHRAVAC,vaccine
+face masks during the COVID-19 pandemic in the United States,societal impact
+Families First Coronavirus Response Act,response
+Far UVC,other
+fenofibrate,treatment
+financial market impact of the 2019–20 coronavirus pandemic,societal impact
+flatten the curve,other
+fomite,other
+impact of the COVID-19 pandemic on food,societal impact
+GRAd-COV2,vaccine
+GX-19,vaccine
+gain of function research,other
+Generation Alpha,societal impact
+Genetic vaccine,vaccine
+George Floyd protests,government
+German government response to the COVID-19 pandemic,response
+Global Advisory Committee on Vaccine Safety,vaccine
+Glossary of the COVID-19 pandemic,other
+The Great Reset,societal impact
+Greg Mortimer,human
+HEROES Act,government
+HGC019,vaccine
+"The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020",government
+"The Health Protection (Coronavirus, Restrictions) (England) Regulations 2020",government
+"The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021",government
+health security,other
+"heating, ventilation, and air conditioning",other
+r/HermanCainAward,other
+homeschooling during the 2020 COVID-19 pandemic,societal impact
+Rhinolophidae,other
+The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020,government
+human challenge study,disease
+hydroxychloroquine,treatment
+BBV154,vaccine
+INNA-051,vaccine
+ImmunityBio COVID-19 vaccine,vaccine
+impact of the COVID-19 pandemic on the 2020 Summer Olympics,societal impact
+impact of the 2019–20 coronavirus pandemic on abortion in the United States,societal impact
+Covid-19 in children,societal impact
+Impact of the COVID-19 pandemic on combat sports,societal impact
+Impact of the COVID-19 pandemic on crime in the Republic of Ireland,societal impact
+Impact of the COVID-19 pandemic on funerals,societal impact
+impact of the COVID-19 pandemic on international relations,societal impact
+Impact of the COVID-19 pandemic on migration,societal impact
+impact of the COVID-19 pandemic on other health issues,societal impact
+Impact of the COVID-19 pandemic on politics in Malaysia,societal impact
+Impact of the COVID-19 pandemic on politics in the Republic of Ireland,societal impact
+impact of the COVID-19 pandemic on prisons,societal impact
+Impact of the COVID-19 pandemic on retail,societal impact
+impact of the COVID-19 pandemic on science and technology,societal impact
+Impact of the COVID-19 pandemic on sports in the Republic of Ireland,societal impact
+impact of the COVID-19 pandemic on television,societal impact
+Impact of the COVID-19 pandemic on television in the United States,societal impact
+Impact of the COVID-19 pandemic on the Catholic Church,societal impact
+impact of the COVID-19 pandemic on the arts and cultural heritage,societal impact
+impact of the COVID-19 pandemic on the environment,societal impact
+impact of the COVID-19 pandemic on the meat industry in the United States,societal impact
+Imperial College COVID-19 Response Team,response
+Indian Council of Medical Research,government
+Indian government response to the COVID-19 pandemic,response
+Infectious Diseases Hospital in Voronovskoye,facility
+interferon beta-1a,treatment
+International Vaccine Institute,vaccine
+international aid related to the COVID-19 pandemic,government
+Irish government response to the COVID-19 pandemic,response
+Jaap van Dissel,human
+Ad26.COV2.S,vaccine
+Joint Biosecurity Centre,government
+K-Quarantine,lockdown
+KD-414,vaccine
+Kissing the Coronavirus,other
+LYB001,vaccine
+Liang Wudong,human
+list of notable COVID-19 deaths in South Africa,disease
+Impact of the COVID-19 pandemic on airlines,societal impact
+list of films impacted by the COVID-19 pandemic,societal impact
+list of unproven methods against COVID-19,misinformation
+lopinavir/ritonavir,treatment
+Luc Montagnier,human
+mRNA-1283,vaccine
+MVC COVID-19 Vaccine,vaccine
+Masimo,other
+epidemiological modeling,disease
+Max Kennedy Jr.,human
+mechanical filter,other
+media coverage of the COVID-19 pandemic,societal impact
+mental health during the COVID-19 pandemic,societal impact
+MigVax-101,vaccine
+Minhai COVID-19 vaccine,vaccine
+Mississippi Legislature COVID-19 outbreak,disease
+mRNA-1273 vaccine,vaccine
+molnupiravir,treatment
+mucormycosis,disease
+NDV-HXP-S,vaccine
+NHS Nightingale Birmingham,facility
+NHS Nightingale Hospital North West,facility
+NHS Nightingale Hospital Yorkshire and the Humber,facility
+Nanocovax,vaccine
+National Expert Group on Vaccine Administration for COVID-19,government
+National Health Commission of the People's Republic of China,government
+New York state government response to the COVID-19 pandemic,response
+Nita K. Patel,human
+non-pharmaceutical intervention,treatment
+Noora,vaccine
+NVX-CoV2373,vaccine
+Novel Coronavirus Expert Meeting,response
+novel coronavirus,other
+nucleoside-modified messenger RNA,other
+OCTA Research,other
+Science Table,government
+Open-source ventilator,other
+origin of COVID-19,disease
+Pandemic Severity Assessment Framework,other
+panic buying,societal impact
+passenger locator form,other
+Paycheck Protection Program and Health Care Enhancement Act,government
+pemivibart,treatment
+Petr Arenberger,human
+Plandemic,misinformation
+Trump administration political interference with science agencies,government
+post-exertional malaise,other
+Post viral cerebellar ataxia,other
+Proning,other
+protest over responses to the coronavirus pandemic,response
+Provincial government response to the COVID-19 pandemic in Ontario,response
+public health emergency of international concern,disease
+QazCovid-in,vaccine
+Razi Cov Pars,vaccine
+ReCOV,vaccine
+Resistiré,other
+Responses to the COVID-19 pandemic in April 2020,response
+Responses to the COVID-19 pandemic in April 2021,response
+Responses to the COVID-19 pandemic in April 2022,responses
+Responses to the COVID-19 pandemic in August 2020,response
+Responses to the COVID-19 pandemic in August 2021,response
+Responses to the COVID-19 pandemic in August 2022,response
+Responses to the COVID-19 pandemic in December 2020,response
+Responses to the COVID-19 pandemic in December 2021,response
+Responses to the COVID-19 pandemic in February 2020,response
+Responses to the COVID-19 pandemic in February 2021,response
+Responses to the COVID-19 pandemic in February 2022,response
+Responses to the COVID-19 pandemic in January 2020,response
+responses to the COVID-19 pandemic in January 2021,response
+Responses to the COVID-19 pandemic in January 2022,response
+Responses to the COVID-19 pandemic in July 2020,response
+Responses to the COVID-19 pandemic in July 2021,response
+Responses to the COVID-19 pandemic in July 2022,response
+Responses to the COVID-19 pandemic in June 2020,response
+Responses to the COVID-19 pandemic in June 2021,response
+Responses to the COVID-19 pandemic in June 2022,response
+Responses to the COVID-19 pandemic in March 2020,response
+Responses to the COVID-19 pandemic in March 2021,response
+Responses to the COVID-19 pandemic in March 2022,response
+Responses to the COVID-19 pandemic in May 2020,response
+Responses to the COVID-19 pandemic in May 2021,response
+Responses to the COVID-19 pandemic in May 2022,response
+Responses to the COVID-19 pandemic in November 2020,response
+Responses to the COVID-19 pandemic in November 2021,response
+Responses to the COVID-19 pandemic in October 2020,response
+Responses to the COVID-19 pandemic in October 2021,response
+Responses to the COVID-19 pandemic in October 2022,response
+Responses to the COVID-19 pandemic in September 2020,response
+Responses to the COVID-19 pandemic in September 2021,response
+Responses to the COVID-19 pandemic in September 2022,response
+Richard M. Levitan,human
+River of Grace Community Church,other
+Russian government responses to the COVID-19 pandemic,response
+S-268019,vaccine
+severe acute respiratory syndrome,disease
+SARS-CoV-1,disease
+SARS-CoV-2 in mink,disease
+SARS-CoV-2 in white-tailed deer,disease
+SCB-2019,vaccine
+SCTV01C,vaccine
+"Safe, Swift and Smart Passage",other
+Sanofi–GSK COVID-19 vaccine,vaccine
+Sanofi–Translate Bio COVID-19 vaccine,vaccine
+Scientific Advisory Group for Emergencies,government
+Seema Yasmin,human
+shortages related to the COVID-19 pandemic,societal impact
+dyspnea,disease
+BBIBP-CorV,vaccine
+WIBP-CorV,vaccine
+sipavibart,treatment
+SOBERANA 02,vaccine
+social impact of the COVID-19 pandemic,societal impact
+social impact of the COVID-19 pandemic in the United Kingdom,societal impact
+Sotrovimab,treatment
+source control,disease
+Gam-COVID-Vac,vaccine
+Statistics of the COVID-19 pandemic in Italy,disease
+Statistics of the COVID-19 pandemic in Peru,disease
+Statistics of the COVID-19 pandemic in Poland,disease
+stay-at-home order,lockdown
+Stemirna COVID-19 vaccine,vaccine
+Stop Asian Hate,societal impact
+Swedish government response to the COVID-19 pandemic,response
+"Waiver from certain provisions of the TRIPS Agreement for the Prevention, Containment and Treatment of COVID-19",government
+Tandon v. Newsom,government
+Texas government response to the COVID-19 pandemic,response
+The proximal origin of SARS-CoV-2,disease
+timeline of the COVID-19 pandemic in August 2021,timeline
+timeline of the COVID-19 pandemic in Australia,timeline
+timeline of the COVID-19 pandemic in California,timeline
+timeline of the COVID-19 pandemic in Canada,timeline
+timeline of the COVID-19 pandemic in Croatia,timeline
+Timeline of the COVID-19 pandemic in England,timeline
+timeline of the COVID-19 pandemic in Japan,timeline
+timeline of the COVID-19 pandemic in July 2021,timeline
+timeline of the COVID-19 pandemic in June 2021,timeline
+timeline of the COVID-19 pandemic in Northern Ireland,timeline
+Timeline of the COVID-19 pandemic in Northern Ireland,timeline
+timeline of the COVID-19 pandemic in November 2021,timeline
+timeline of the COVID-19 pandemic in October 2021,timeline
+timeline of the COVID-19 pandemic in Scotland (2020),timeline
+Timeline of the COVID-19 pandemic in Scotland,timeline
+Timeline of the COVID-19 pandemic in South Africa,timeline
+timeline of the COVID-19 pandemic in Spain,timeline
+timeline of the COVID-19 pandemic in Texas,timeline
+timeline of the COVID-19 pandemic in Trinidad and Tobago,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline
+timeline of the COVID-19 pandemic in Wales (2020),timeline
+Timeline of the COVID-19 pandemic in Wales,timeline
+timeline of the COVID-19 pandemic in the Republic of Ireland,timeline
+Timeline of the COVID-19 pandemic in the Republic of Ireland,timeline
+timeline of the COVID-19 pandemic in the Republic of Ireland,timeline
+Timeline of the COVID-19 pandemic in the Republic of Ireland,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+Timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline
+Tomáš Cihlář,human
+TURKOVAC,vaccine
+U.S. federal government response to the COVID-19 pandemic,response
+U.S. state and local government responses to the COVID-19 pandemic,response
+UB-612,vaccine
+COVID-19 public inquiry in the United Kingdom,government
+UK Coronavirus Cancer Monitoring Project,other
+UN COVID-19 Supply Chain Task Force,government
+USS Theodore Roosevelt,other
+umifenovir,treatment
+United Kingdom responses to the COVID-19 pandemic,response
+United Nations' response to the COVID-19 pandemic,response
+United States responses to the COVID-19 pandemic,response
+V-01,vaccine
+VBI-2902,vaccine
+Vabiotech COVID-19 vaccine,vaccine
+Vaccine Hunters Canada,vaccine
+Vaccine line jumping,vaccine
+Valneva COVID-19 vaccine,vaccine
+Vaxart COVID-19 vaccine,vaccine
+Humbertium covidum,other
+viral vector vaccine,vaccine
+W. Ian Lipkin,human
+Walvax COVID-19 vaccine,vaccine
+wastewater surveillance,other
+West China Hospital COVID-19 vaccine,vaccine
+Western States Pact,government
+White House COVID-19 Response Team,response
+Wuhan Institute of Virology,facility
+Wuhan Jinyintan Hospital,facility
+Youyang Gu COVID model,disease
+Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate,vaccine

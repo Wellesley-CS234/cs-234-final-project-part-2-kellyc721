@@ -1,0 +1,684 @@
+article,predicted_label,score,ground_truth
+COVID-19,disease,0.6040393710136414,disease
+COVID-19 pandemic lockdown,lockdown,0.369249552488327,lockdown
+COVID-19 misinformation,misinformation,0.7120131850242615,misinformation
+COVID-19 misinformation by China,misinformation,0.6327171325683594,misinformation
+COVID-19 pandemic misinformation by governments,misinformation,0.5359662771224976,misinformation
+Misinformation related to the COVID-19 pandemic by the United States,misinformation,0.80157470703125,misinformation
+COVID-19 pandemic,disease,0.29949572682380676,disease
+COVID-19 pandemic by country and territory,variant,0.29604217410087585,disease
+COVID-19 rapid antigen test,disease,0.3158138394355774,disease
+COVID-19 vaccine,vaccine,0.5836041569709778,vaccine
+COVID-19 vaccine card,variant,0.3686429560184479,vaccine
+COVID-19 vaccine misinformation and hesitancy,misinformation,0.6886109113693237,misinformation
+ivermectin during the COVID-19 pandemic,variant,0.2455359846353531,treatment
+long covid,disease,0.33073994517326355,disease
+pathogen transmission,disease,0.5997421145439148,disease
+SARS-CoV-2,disease,0.419810950756073,disease
+social distancing,response,0.34603020548820496,societal impact
+timeline of the COVID-19 pandemic,timeline,0.7369323372840881,timeline
+2019–2020 COVID-19 outbreak in mainland China,timeline,0.376104474067688,disease
+2020 stock market crash,timeline,0.46610841155052185,societal impact
+2021 Malaysian state of emergency,timeline,0.2761731743812561,lockdown
+Access to COVID-19 Tools Accelerator,facility,0.303939551115036,other
+acute respiratory distress syndrome,disease,0.6304614543914795,disease
+Anders Tegnell,human,0.8518946170806885,human
+Anthony Fauci,human,0.6676788926124573,human
+antibody-dependent enhancement,variant,0.33816733956336975,treatment
+asymptomatic carrier,variant,0.3962154686450958,disease
+SARS-CoV-2 lineage BA.2.86,variant,0.7222990393638611,variant
+basic reproduction number,disease,0.5047850608825684,other
+COVAX,vaccine,0.42713630199432373,vaccine
+COVID-19 app,facility,0.248084157705307,other
+COVID-19 drug development,variant,0.24421772360801697,treatment
+COVID-19 drug repurposing research,variant,0.39015716314315796,treatment
+COVID-19 hospital,facility,0.4383997619152069,facility
+COVID-19 lab leak theory,variant,0.4476815164089203,disease
+COVID-19 local lockdown regulations in England,lockdown,0.5645723342895508,lockdown
+COVID-19 lockdown in China,lockdown,0.48115289211273193,lockdown
+COVID-19 pandemic in Africa,disease,0.5952270030975342,disease
+COVID-19 pandemic in Algeria,disease,0.6022971272468567,disease
+COVID-19 pandemic in Angola,disease,0.5485323667526245,disease
+2020 COVID-19 pandemic in Antigua and Barbuda,disease,0.4014814496040344,disease
+COVID-19 pandemic in Argentina,disease,0.5951293110847473,disease
+COVID-19 pandemic in Asia,disease,0.6224771738052368,disease
+COVID-19 pandemic in Bangladesh,disease,0.505518913269043,disease
+2020 COVID-19 pandemic in Barbados,disease,0.4111343324184418,disease
+COVID-19 pandemic in Benin,disease,0.5510439872741699,disease
+2020 COVID-19 pandemic in Bermuda,disease,0.4847826361656189,disease
+COVID-19 pandemic in Burundi,disease,0.5510739684104919,disease
+COVID-19 pandemic in Ceuta,disease,0.6190212965011597,disease
+COVID-19 pandemic in Crimea,disease,0.5417070388793945,disease
+COVID-19 pandemic in El Salvador,disease,0.5760295987129211,disease
+2020 COVID-19 pandemic in Equatorial Guinea,disease,0.4314347803592682,disease
+COVID-19 pandemic in Europe,disease,0.49128255248069763,disease
+2020 COVID-19 pandemic in Gabon,timeline,0.42358994483947754,disease
+COVID-19 pandemic in Georgia,disease,0.6355584859848022,disease
+2020 COVID-19 pandemic in Guinea-Bissau,disease,0.36820468306541443,disease
+COVID-19 pandemic in Haiti,disease,0.5488899946212769,disease
+COVID-19 pandemic in India,disease,0.6276171207427979,disease
+COVID-19 pandemic in Iran,disease,0.5988983511924744,disease
+COVID-19 pandemic in Iraq,disease,0.5691412091255188,disease
+COVID-19 pandemic in Italy,disease,0.6313868165016174,disease
+2020 COVID-19 pandemic in Liberia,disease,0.4226802587509155,disease
+COVID-19 pandemic in Mali,disease,0.5938504934310913,disease
+COVID-19 pandemic in Mauritania,disease,0.6177845597267151,disease
+COVID-19 pandemic in Melilla,disease,0.5862537622451782,disease
+2020 COVID-19 pandemic in Michigan,disease,0.43387410044670105,disease
+COVID-19 pandemic in New York City,disease,0.6680813431739807,disease
+2020 COVID-19 pandemic in Niger,disease,0.423135906457901,disease
+COVID-19 pandemic in North America,disease,0.5781072378158569,disease
+COVID-19 pandemic in Oceania,disease,0.6994773149490356,disease
+COVID-19 pandemic in Panama,disease,0.5326732993125916,disease
+2020 COVID-19 pandemic in Sierra Leone,disease,0.44878458976745605,disease
+COVID-19 pandemic in South America,disease,0.667022168636322,disease
+COVID-19 pandemic in West Bengal,disease,0.711861789226532,disease
+COVID-19 pandemic in China,disease,0.6272778511047363,disease
+2020 COVID-19 pandemic in the Central African Republic,disease,0.4378991425037384,disease
+2020 COVID-19 pandemic in the Gambia,disease,0.4251965582370758,disease
+2020 COVID-19 pandemic in the Republic of the Congo,disease,0.44803404808044434,disease
+COVID-19 pandemic on USS Theodore Roosevelt,disease,0.6534296870231628,disease
+COVID-19 recession,timeline,0.5296521186828613,societal impact
+COVID-19 seasonality,variant,0.46873897314071655,societal impact
+COVID-19 test,disease,0.6011600494384766,disease
+COVID-19 vaccination in Africa,vaccine,0.47266197204589844,vaccine
+COVID-19 vaccination in Cape Verde,vaccine,0.37554681301116943,vaccine
+COVID-19 vaccination in Greece,vaccine,0.3798430562019348,vaccine
+COVID-19 vaccination in Haiti,vaccine,0.4908542037010193,vaccine
+COVID-19 vaccination in Iceland,vaccine,0.3580039441585541,vaccine
+COVID-19 vaccination programme in India,vaccine,0.43143779039382935,vaccine
+COVID-19 vaccination in Kazakhstan,vaccine,0.3667302131652832,vaccine
+COVID-19 vaccination in New Zealand,vaccine,0.6780881285667419,vaccine
+COVID-19 vaccination in Senegal,vaccine,0.36653003096580505,vaccine
+COVID-19 vaccination in Singapore,vaccine,0.48077869415283203,vaccine
+COVID-19 vaccination in South Africa,vaccine,0.38197821378707886,vaccine
+COVID-19 vaccination programme in Spain,vaccine,0.3993746340274811,vaccine
+COVID-19 vaccination in Sri Lanka,vaccine,0.41231659054756165,vaccine
+COVID-19 vaccination in Taiwan,vaccine,0.45781952142715454,vaccine
+COVID-19 vaccination in Thailand,vaccine,0.34113654494285583,vaccine
+COVID-19 vaccine clinical research,vaccine,0.6484357714653015,vaccine
+COVIDSafe,variant,0.46914979815483093,other
+Chinese government response to COVID-19,response,0.4567736089229584,response
+chloroquine,variant,0.40271830558776855,treatment
+contact tracing,response,0.30181652307510376,disease
+Coronavirus,variant,0.5531022548675537,disease
+David Manning,human,0.9098479747772217,human
+deployment of COVID-19 vaccines,vaccine,0.4845333397388458,vaccine
+dexamethasone,treatment,0.6570605039596558,treatment
+vector,variant,0.3958356976509094,disease
+economic impact of the COVID-19 pandemic in the United States,variant,0.4322194457054138,societal impact
+Emergency evacuation procedures during the COVID-19 pandemic,variant,0.27454471588134766,lockdown
+emergent virus,disease,0.6006346940994263,disease
+Endemic phase of COVID-19,disease,0.43110203742980957,disease
+face masks during the COVID-19 pandemic,variant,0.23723049461841583,societal impact
+GISAID,facility,0.3652222752571106,other
+Grand Princess,variant,0.2740353047847748,other
+herd immunity,disease,0.25046470761299133,disease
+history of COVID-19 vaccine development,timeline,0.44372913241386414,vaccine
+History of the COVID-19 pandemic in the United Kingdom,timeline,0.4893811345100403,disease
+Wuhan Huanan Seafood Wholesale Market,facility,0.42906779050827026,other
+INSACOG,facility,0.3444981575012207,other
+impact of the COVID-19 pandemic on cinema,variant,0.3690696656703949,societal impact
+impact of the COVID-19 pandemic on education,variant,0.4635218381881714,societal impact
+impact of the COVID-19 pandemic on social media,variant,0.4198717772960663,societal impact
+international non-essential travel,variant,0.5818638205528259,other
+Katalin Karikó,human,0.8583046197891235,human
+Li Wenliang,human,0.4000319838523865,human
+list of COVID-19 vaccine authorizations,vaccine,0.5766995549201965,vaccine
+list of deaths due to COVID-19,variant,0.24447281658649445,disease
+MS Zaandam,timeline,0.2755860388278961,other
+Michael J. Ryan,human,0.8669223189353943,human
+pediatric multisystem inflammatory syndrome,disease,0.4822962284088135,disease
+national responses to the COVID-19 pandemic,response,0.665264904499054,response
+nirmatrelvir,variant,0.5660762786865234,treatment
+nirmatrelvir/ritonavir,treatment,0.4358498752117157,treatment
+Noor Hisham Abdullah,human,0.8798871636390686,human
+Operation Warp Speed,government,0.29704150557518005,government
+AZD1222,vaccine,0.5708461999893188,vaccine
+Peter Daszak,human,0.7139078974723816,human
+Pfizer–BioNTech COVID-19 vaccine,vaccine,0.5889866352081299,vaccine
+political impact of the COVID-19 pandemic,variant,0.34487923979759216,societal impact
+public health,societal impact,0.3288090229034424,disease
+Randomised Evaluation of COVID-19 Therapy,treatment,0.3459392488002777,treatment
+Racial Disparities in the COVID-19 pandemic in the United States,variant,0.3911254107952118,societal impact
+remdesivir,variant,0.33966174721717834,treatment
+risk factor,variant,0.337388277053833,disease
+ritonavir,variant,0.6550683975219727,treatment
+Roberto Speranza,human,0.8001279830932617,human
+SARS-CoV-2 Beta variant,variant,0.8953615427017212,variant
+SARS-CoV-2 Delta variant,variant,0.7586321234703064,variant
+SARS-CoV-2 Gamma variant,variant,0.8867674469947815,variant
+SARS-CoV-2 Iota variant,variant,0.8647235631942749,variant
+SARS-CoV-2 Kappa variant,variant,0.7739299535751343,variant
+SARS-CoV-2 Lambda variant,variant,0.8473538160324097,variant
+SARS-CoV-2 Omicron variant,variant,0.8791503310203552,variant
+SARSr-CoV,disease,0.48007312417030334,disease
+silent hypoxia,variant,0.9110493659973145,other
+Solidarity Trial,treatment,0.17807908356189728,treatment
+Statistics of the COVID-19 pandemic in the United States,disease,0.3896915912628174,disease
+symptoms of COVID-19,variant,0.48924073576927185,disease
+Tedros Adhanom Ghebreyesus,human,0.8631855249404907,human
+timeline of the COVID-19 pandemic in 2019,timeline,0.767670214176178,timeline
+Timeline of the COVID-19 pandemic in April 2020,timeline,0.7688986659049988,timeline
+timeline of the COVID-19 pandemic in August 2020,timeline,0.7531781792640686,timeline
+Timeline of the COVID-19 pandemic in Australia,timeline,0.6510524749755859,timeline
+timeline of the COVID-19 pandemic in Australia,timeline,0.4594328999519348,timeline
+timeline of the COVID-19 pandemic in Australia,timeline,0.5287308096885681,timeline
+Timeline of the COVID-19 pandemic in February 2020,timeline,0.7698745727539062,timeline
+timeline of the COVID-19 pandemic in Italy,timeline,0.7052816152572632,timeline
+Timeline of the COVID-19 pandemic in January 2020,timeline,0.7637063264846802,timeline
+timeline of the COVID-19 pandemic in July 2020,timeline,0.7986647486686707,timeline
+Timeline of the COVID-19 pandemic in June 2020,timeline,0.7687903046607971,timeline
+Timeline of the COVID-19 pandemic in March 2020,timeline,0.7706405520439148,timeline
+Timeline of the COVID-19 pandemic in May 2020,timeline,0.770905613899231,timeline
+Timeline of the COVID-19 pandemic in New York City,timeline,0.47745364904403687,timeline
+timeline of the COVID-19 pandemic in November 2020,timeline,0.7549163699150085,timeline
+timeline of the COVID-19 pandemic in October 2020,timeline,0.7554308176040649,timeline
+timeline of the COVID-19 pandemic in September 2020,timeline,0.7528892159461975,timeline
+timeline of the COVID-19 pandemic in September 2021,timeline,0.7609541416168213,timeline
+tocilizumab,variant,0.3369404971599579,treatment
+transmission of COVID-19,disease,0.5285091996192932,disease
+treatment of COVID-19,treatment,0.6703007817268372,treatment
+triage,treatment,0.4378323554992676,treatment
+United Kingdom legislation connected with the COVID-19 pandemic,timeline,0.2515246868133545,government
+variants of SARS-CoV-2,variant,0.857609748840332,variant
+ventilation,variant,0.320017546415329,other
+"International Treaty on Pandemic Prevention, Preparedness and Response",variant,0.24682648479938507,government
+World Health Organization,variant,0.3776351511478424,government
+xenophobia and racism related to the COVID-19 pandemic,variant,0.2551615834236145,societal impact
+Zhang Jixian,human,0.8363021016120911,human
+2002–2004 SARS outbreak,disease,0.5733113884925842,disease
+202-CoV,vaccine,0.4150376617908478,vaccine
+Danish mink cull,disease,0.29654571413993835,other
+2020 Summer Olympics,variant,0.33349496126174927,other
+2020 Tablighi Jamaat coronavirus hotspot in Delhi,disease,0.3944515883922577,disease
+2020 Vijayawada fire,timeline,0.5825780630111694,other
+2020–21 NHL season,timeline,0.5926799774169922,other
+2021 Idar-Oberstein shooting,timeline,0.5889946222305298,other
+2021 hospital crisis in the U.S. from COVID-19,variant,0.2807612121105194,facility
+COVID-19 pandemic in Shanghai March 2022,disease,0.4266062080860138,disease
+2022 Wellington protests,timeline,0.34334278106689453,societal impact
+SARS coronavirus main proteinase,variant,0.3268694281578064,disease
+Misinformation related to 5G technology,misinformation,0.8033891320228577,misinformation
+76 Days,timeline,0.4741266667842865,other
+ABNCoV2,vaccine,0.41070955991744995,vaccine
+AG0302-COVID‑19,vaccine,0.4096031188964844,vaccine
+AKS-452,vaccine,0.6613842248916626,vaccine
+Lunar-COV19,vaccine,0.6157848238945007,vaccine
+ARCT-154,vaccine,0.4552968442440033,vaccine
+AbC-19 rapid antibody test,variant,0.2713518440723419,treatment
+Abdala,vaccine,0.4126170873641968,vaccine
+Abingdon Health,facility,0.42404139041900635,government
+airborne disease,disease,0.6840286254882812,disease
+ACE2,human,0.7743017077445984,other
+anthropause,human,0.37597665190696716,human
+SARS-CoV-2 lineage BA.3.2,variant,0.7278552651405334,variant
+bamlanivimab,treatment,0.6148554086685181,treatment
+Biden Administration COVID-19 action plan,variant,0.5092461705207825,government
+Biosecurity in Australia,variant,0.5312784910202026,government
+BlueDot,disease,0.3492073714733124,other
+BriLife,vaccine,0.6467235088348389,vaccine
+Government of the United Kingdom's financial response to the COVID-19 pandemic,government,0.4210323095321655,government
+Bruce Aylward,human,0.7683630585670471,human
+"Coronavirus Aid, Relief, and Economic Security Act",disease,0.3574989438056946,government
+COH04S1,vaccine,0.4337800443172455,vaccine
+COVI-VAC,vaccine,0.45615243911743164,vaccine
+COVID-19 Contact-Confirming Application,government,0.29325172305107117,other
+COVID-19 Genomics UK Consortium,variant,0.3324755132198334,other
+COVID-19 Pandemic Unemployment Payment,disease,0.24731361865997314,lockdown
+COVID-19 Solidarity Response Fund,response,0.4233225882053375,response
+COVID-19 Supply Council,government,0.6236520409584045,government
+COVID-19 and cancer,disease,0.5385374426841736,societal impact
+COVID-19 community quarantines in the Philippines,lockdown,0.3387853801250458,lockdown
+COVID-19 denial,misinformation,0.8340941667556763,misinformation
+COVID-19 eviction moratoriums in the United States,variant,0.515682578086853,government
+COVID-19 disease in pregnancy,disease,0.8132373094558716,disease
+COVID-19 pandemic lockdown in India,lockdown,0.453466534614563,lockdown
+COVID-19 lockdown in the United Kingdom,lockdown,0.7531052827835083,lockdown
+COVID-19 misinformation in the Philippines,misinformation,0.8333681225776672,misinformation
+COVID-19 pandemic in Abkhazia,disease,0.5097069144248962,disease
+2020 COVID-19 pandemic in Akrotiri and Dhekelia,disease,0.6204517483711243,disease
+COVID-19 pandemic in Albania,disease,0.6377643346786499,disease
+2020 COVID-19 pandemic in Alberta,disease,0.4674307703971863,disease
+COVID-19 pandemic in American Samoa,disease,0.5452605485916138,disease
+2020 COVID-19 pandemic in Andorra,disease,0.48624345660209656,disease
+COVID-19 pandemic in Armenia,disease,0.6154937744140625,disease
+2020 COVID-19 pandemic in Assam,disease,0.4224967658519745,disease
+COVID-19 pandemic in Asturias,disease,0.5342589020729065,disease
+COVID-19 pandemic in Australia,disease,0.6066099405288696,disease
+COVID-19 pandemic in Austria,disease,0.5739583969116211,disease
+2020 COVID-19 pandemic in Azerbaijan,disease,0.39100781083106995,disease
+COVID-19 pandemic in Belarus,disease,0.5693581104278564,disease
+COVID-19 pandemic in Belgium,disease,0.5982427597045898,disease
+2020 COVID-19 pandemic in Belize,disease,0.36965876817703247,disease
+2020 COVID-19 pandemic in Bosnia and Herzegovina,disease,0.5912646055221558,disease
+COVID-19 pandemic in Bulgaria,disease,0.6127824187278748,disease
+COVID-19 pandemic in California,disease,0.5903689861297607,disease
+COVID-19 pandemic in Canada,disease,0.6447070837020874,disease
+COVID-19 pandemic in China,disease,0.3296036124229431,disease
+COVID-19 pandemic in Croatia,disease,0.6217516660690308,disease
+COVID-19 pandemic in Denmark,disease,0.5479225516319275,disease
+2020 COVID-19 pandemic in Easter Island,timeline,0.4384976625442505,disease
+COVID-19 pandemic in Egypt,disease,0.5953405499458313,disease
+COVID-19 pandemic in Estonia,disease,0.592681348323822,disease
+COVID-19 pandemic in Ethiopia,disease,0.614898681640625,disease
+COVID-19 pandemic in Finland,disease,0.5268605351448059,disease
+COVID-19 pandemic in France,disease,0.647351086139679,disease
+2020 COVID-19 pandemic in French Guiana,disease,0.4743838608264923,disease
+2020 COVID-19 pandemic in French Polynesia,disease,0.3589332401752472,disease
+COVID-19 pandemic in Gagauzia,timeline,0.2752991318702698,disease
+COVID-19 pandemic in Germany,disease,0.6117010712623596,disease
+2020 COVID-19 pandemic in Gibraltar,timeline,0.39940914511680603,disease
+COVID-19 pandemic in Greece,disease,0.6148133873939514,disease
+2020 COVID-19 pandemic in Grenada,disease,0.421286404132843,disease
+COVID-19 pandemic in Guadeloupe,disease,0.6361404061317444,disease
+COVID-19 pandemic in Henan,disease,0.66991126537323,disease
+COVID-19 pandemic in Hubei,disease,0.4779522716999054,disease
+COVID-19 pandemic in Hungary,disease,0.6273955702781677,disease
+COVID-19 pandemic in Iceland,disease,0.597893238067627,disease
+2020 COVID-19 pandemic in Illinois,disease,0.5356223583221436,disease
+COVID-19 pandemic in Israel,disease,0.5448634624481201,disease
+COVID-19 pandemic in Japan,disease,0.6022266745567322,disease
+COVID-19 pandemic in Kazakhstan,disease,0.5340225696563721,disease
+COVID-19 pandemic in Kosovo,disease,0.5801613926887512,disease
+COVID-19 pandemic in Latvia,disease,0.5952566862106323,disease
+2020 COVID-19 pandemic in Liechtenstein,disease,0.37098222970962524,disease
+COVID-19 pandemic in Lithuania,disease,0.5981438159942627,disease
+COVID-19 pandemic in Luxembourg,disease,0.5244655609130859,disease
+COVID-19 pandemic in Malta,disease,0.5894975662231445,disease
+2020 COVID-19 pandemic in Martinique,disease,0.49638962745666504,disease
+2020 COVID-19 pandemic in Mayotte,disease,0.4887624680995941,disease
+COVID-19 pandemic in Metro Manila,disease,0.6871603727340698,disease
+COVID-19 pandemic in Moldova,disease,0.619683563709259,disease
+2020 COVID-19 pandemic in Monaco,disease,0.5056594610214233,disease
+2020 COVID-19 pandemic in Mozambique,disease,0.4259195625782013,disease
+2020 COVID-19 pandemic in Myanmar,disease,0.4187987744808197,disease
+2020 COVID-19 pandemic in Nagaland,disease,0.41620782017707825,disease
+COVID-19 pandemic in New Caledonia,disease,0.5939287543296814,disease
+2020 COVID-19 pandemic in New Hampshire,disease,0.5295426249504089,disease
+COVID-19 pandemic in New York,disease,0.6214010715484619,disease
+COVID-19 pandemic in Newfoundland and Labrador,disease,0.67901611328125,disease
+COVID-19 pandemic in North Korea,disease,0.6481935977935791,disease
+2020 COVID-19 pandemic in North Macedonia,disease,0.512758195400238,disease
+COVID-19 pandemic in Norway,disease,0.5863695740699768,disease
+COVID-19 pandemic in Poland,disease,0.598605215549469,disease
+COVID-19 pandemic in Portugal,disease,0.6339317560195923,disease
+2020 COVID-19 pandemic in Prince Edward Island,disease,0.4158467650413513,disease
+2020 COVID-19 pandemic in Rhode Island,disease,0.5657147765159607,disease
+COVID-19 pandemic in Romania,disease,0.6406518220901489,disease
+COVID-19 pandemic in Russia,disease,0.591586172580719,disease
+COVID-19 pandemic in Saint Helena,disease,0.5566456913948059,disease
+2020 COVID-19 pandemic in Saint Pierre and Miquelon,disease,0.43661537766456604,disease
+COVID-19 pandemic in Saint Vincent and the Grenadines,disease,0.6061758995056152,disease
+COVID-19 pandemic in San Marino,disease,0.5427043437957764,disease
+COVID-19 pandemic in Singapore,disease,0.579583466053009,disease
+COVID-19 pandemic in Slovakia,disease,0.5786281228065491,disease
+COVID-19 pandemic in Slovenia,disease,0.6117540001869202,disease
+COVID-19 pandemic in Somaliland,disease,0.5074443817138672,disease
+COVID-19 pandemic in South Africa,disease,0.6016011238098145,disease
+COVID-19 pandemic in South Korea,disease,0.5580362677574158,disease
+COVID-19 pandemic in South Ossetia,disease,0.5099155306816101,disease
+COVID-19 pandemic in Spain,disease,0.5733396410942078,disease
+COVID-19 pandemic in Sri Lanka,disease,0.5736783146858215,disease
+COVID-19 pandemic in Sweden,disease,0.6093764305114746,disease
+COVID-19 pandemic in Switzerland,disease,0.6479293704032898,disease
+2020 COVID-19 pandemic in São Tomé and Príncipe,disease,0.4848180413246155,disease
+COVID-19 pandemic in Taiwan,disease,0.5861454010009766,disease
+2020 COVID-19 pandemic in Tamil Nadu,disease,0.4618815779685974,disease
+COVID-19 pandemic in Togo,disease,0.5592683553695679,disease
+2020 COVID-19 pandemic in Transnistria,timeline,0.39558637142181396,disease
+COVID-19 pandemic in Turkey,disease,0.5935139060020447,disease
+2020 COVID-19 pandemic in Uganda,disease,0.40401366353034973,disease
+COVID-19 pandemic in Ukraine,disease,0.5869853496551514,disease
+COVID-19 pandemic in Vatican City,disease,0.6173943281173706,disease
+COVID-19 pandemic in Venezuela,disease,0.5400657653808594,disease
+COVID-19 pandemic in Wallis and Futuna,disease,0.7107967138290405,disease
+2020 COVID-19 pandemic in Western Sahara,disease,0.41584348678588867,disease
+2020 COVID-19 pandemic in Zambia,disease,0.4056415855884552,disease
+COVID-19 pandemic in popular culture,variant,0.3044881224632263,societal impact
+2020 COVID-19 pandemic in the Cayman Islands,disease,0.41815340518951416,disease
+COVID-19 pandemic in the Czech Republic,disease,0.6297672390937805,disease
+2020 COVID-19 pandemic in the Falkland Islands,disease,0.46978095173835754,disease
+2020 COVID-19 pandemic in the Isle of Man,disease,0.40056490898132324,disease
+COVID-19 pandemic in the Kurdistan Region,variant,0.2734832465648651,disease
+2020 COVID-19 pandemic in the Navajo Nation,disease,0.5170395970344543,disease
+COVID-19 pandemic in the Netherlands,disease,0.6356123089790344,disease
+COVID-19 pandemic in the Philippines,disease,0.6813169121742249,disease
+COVID-19 pandemic in the Republic of Ireland,disease,0.6175064444541931,disease
+COVID-19 pandemic in the Solomon Islands,disease,0.6457590460777283,disease
+COVID-19 pandemic in the United Kingdom,disease,0.6894702911376953,disease
+COVID-19 pandemic in the United States,disease,0.5982245206832886,disease
+COVID-19 protests in the Republic of Ireland,variant,0.4134209156036377,societal impact
+2020 United States anti-lockdown protests,disease,0.21041636168956757,societal impact
+COVID-19 Surveillance,disease,0.3380095064640045,disease
+COVID-19 testing in the United States,timeline,0.2532503008842468,disease
+COVID-19 vaccination in Albania,variant,0.36966603994369507,vaccine
+COVID-19 vaccination in Australia,vaccine,0.6164719462394714,vaccine
+COVID-19 vaccination in Bhutan,vaccine,0.32642504572868347,vaccine
+COVID-19 vaccination in Canada,vaccine,0.6003707051277161,vaccine
+COVID-19 vaccination in Hungary,vaccine,0.37821534276008606,vaccine
+COVID-19 vaccination in Japan,vaccine,0.3149249851703644,vaccine
+COVID-19 vaccination in Moldova,vaccine,0.4681157171726227,vaccine
+COVID-19 vaccination in Romania,vaccine,0.5747740268707275,disease
+COVID-19 vaccination in mainland China‎,vaccine,0.3919309377670288,vaccine
+COVID-19 vaccination in the Republic of Ireland,vaccine,0.43900102376937866,vaccine
+COVID-19 vaccination in the United States,vaccine,0.4601227045059204,vaccine
+COVID-19 vaccine mandate,vaccine,0.5263173580169678,vaccine
+COVID-19 vaccine hesitancy in the United States,vaccine,0.5065885782241821,vaccine
+COVID Moonshot,disease,0.28076741099357605,disease
+COVIran Barekat,vaccine,0.6255089640617371,vaccine
+California government response to the COVID-19 pandemic,response,0.5133556723594666,response
+Calvin Sun,human,0.8618765473365784,human
+Tom Moore,human,0.6231803297996521,human
+case fatality rate,disease,0.5896444916725159,disease
+Centers for Disease Control and Prevention,government,0.5642114281654358,government
+Chen Wei,human,0.8306962251663208,human
+ChinaAngVirus disinformation campaign,misinformation,0.6261882185935974,misinformation
+Chinese Academy of Medical Sciences COVID-19 vaccine,vaccine,0.6516489386558533,vaccine
+chloroquine and hydroxychloroquine during the COVID-19 pandemic,disease,0.348529577255249,treatment
+Cluster 5 Outbreak,variant,0.5215609669685364,disease
+Medicago Inc. COVID-19 vaccine candidate,vaccine,0.5809752941131592,vaccine
+concerns and controversies at the 2020 Summer Olympics,variant,0.3476991355419159,societal impact
+conjugate vaccine,vaccine,0.6362185478210449,vaccine
+"Consolidated Appropriations Act, 2021",response,0.20973485708236694,government
+COVID-19 contracts in the United Kingdom,government,0.7118053436279297,government
+Ad5-nCoV,vaccine,0.5361928939819336,vaccine
+Corbevax,vaccine,0.49513471126556396,vaccine
+CoronaVac,vaccine,0.5107930302619934,vaccine
+Coronaviridae,variant,0.3963976502418518,other
+Coronavirus breathalyzer,facility,0.35331955552101135,other
+Case Covaxin,vaccine,0.7051975131034851,vaccine
+Covaxin / BBV152,vaccine,0.569904088973999,vaccine
+CoviVac,vaccine,0.525972306728363,vaccine
+Covid Watch,timeline,0.44549235701560974,other
+CoviVac,vaccine,0.5264559388160706,vaccine
+zorecimeran,vaccine,0.3708610236644745,vaccine
+Darvinson Rojas,human,0.9027635455131531,human
+Decentralized Privacy-Preserving Proximity Tracing,variant,0.403107225894928,disease
+DelNS1-2019-nCoV-RBD-OPT,vaccine,0.4412456452846527,vaccine
+Diamond Princess,variant,0.3753719925880432,other
+digital contact tracing,variant,0.4596496820449829,disease
+disease cluster,disease,0.7802491784095764,disease
+Drew Weissman,human,0.7357935905456543,human
+Eastern States Multi-state Council,variant,0.38740286231040955,government
+economic impact of the COVID-19 pandemic,variant,0.5159064531326294,societal impact
+Educational crisis in Ethiopia since 2020,variant,0.29485127329826355,societal impact
+emerging communicable disease,disease,0.5515883564949036,disease
+Enhanced community quarantine in Luzon,lockdown,0.5737515687942505,lockdown
+ensitrelvir,variant,0.5278005003929138,treatment
+EpiVacCorona,vaccine,0.5035457611083984,vaccine
+EuCorVac-19,variant,0.3880920708179474,vaccine
+European Union response to the COVID-19 pandemic,response,0.7083311080932617,response
+evacuations related to the COVID-19 pandemic,timeline,0.6409617066383362,lockdown
+EveryDoctor,variant,0.44683828949928284,other
+Exposure Notification,variant,0.34430205821990967,other
+extracorporeal membrane oxygenation,variant,0.3828204870223999,other
+FAKHRAVAC,vaccine,0.46833184361457825,vaccine
+face masks during the COVID-19 pandemic in the United States,variant,0.36896950006484985,societal impact
+Families First Coronavirus Response Act,response,0.2909752130508423,response
+Far UVC,variant,0.7940962910652161,other
+fenofibrate,treatment,0.48087289929389954,treatment
+financial market impact of the 2019–20 coronavirus pandemic,disease,0.38354039192199707,societal impact
+flatten the curve,variant,0.6073164939880371,other
+fomite,variant,0.4164682924747467,other
+impact of the COVID-19 pandemic on food,variant,0.3751486539840698,societal impact
+GRAd-COV2,vaccine,0.5988219380378723,vaccine
+GX-19,vaccine,0.5544930100440979,vaccine
+gain of function research,variant,0.3653382360935211,other
+Generation Alpha,societal impact,0.4533047676086426,societal impact
+Genetic vaccine,vaccine,0.6413537263870239,vaccine
+George Floyd protests,timeline,0.4811776876449585,government
+German government response to the COVID-19 pandemic,response,0.4351452589035034,response
+Global Advisory Committee on Vaccine Safety,variant,0.4895625710487366,vaccine
+Glossary of the COVID-19 pandemic,variant,0.2887844145298004,other
+The Great Reset,variant,0.39472445845603943,societal impact
+Greg Mortimer,timeline,0.3945085108280182,human
+HEROES Act,variant,0.3351987898349762,government
+HGC019,vaccine,0.4736892879009247,vaccine
+"The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020",disease,0.38775885105133057,government
+"The Health Protection (Coronavirus, Restrictions) (England) Regulations 2020",response,0.5325705409049988,government
+"The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021",disease,0.3478284478187561,government
+health security,societal impact,0.38303259015083313,other
+"heating, ventilation, and air conditioning",facility,0.3223385810852051,other
+r/HermanCainAward,variant,0.392661452293396,other
+homeschooling during the 2020 COVID-19 pandemic,variant,0.31880366802215576,societal impact
+Rhinolophidae,variant,0.371720552444458,other
+The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020,disease,0.18865330517292023,government
+human challenge study,human,0.6675550937652588,disease
+hydroxychloroquine,variant,0.5241034030914307,treatment
+BBV154,vaccine,0.4799840748310089,vaccine
+INNA-051,vaccine,0.49554896354675293,vaccine
+ImmunityBio COVID-19 vaccine,vaccine,0.6371023654937744,vaccine
+impact of the COVID-19 pandemic on the 2020 Summer Olympics,variant,0.5991517901420593,societal impact
+impact of the 2019–20 coronavirus pandemic on abortion in the United States,variant,0.2549733519554138,societal impact
+Covid-19 in children,variant,0.366341233253479,societal impact
+Impact of the COVID-19 pandemic on combat sports,variant,0.7260951995849609,societal impact
+Impact of the COVID-19 pandemic on crime in the Republic of Ireland,variant,0.7139396667480469,societal impact
+Impact of the COVID-19 pandemic on funerals,variant,0.7084349393844604,societal impact
+impact of the COVID-19 pandemic on international relations,variant,0.6901993155479431,societal impact
+Impact of the COVID-19 pandemic on migration,variant,0.6725631952285767,societal impact
+impact of the COVID-19 pandemic on other health issues,disease,0.37303659319877625,societal impact
+Impact of the COVID-19 pandemic on politics in Malaysia,variant,0.4299616515636444,societal impact
+Impact of the COVID-19 pandemic on politics in the Republic of Ireland,variant,0.43262094259262085,societal impact
+impact of the COVID-19 pandemic on prisons,variant,0.39090633392333984,societal impact
+Impact of the COVID-19 pandemic on retail,variant,0.4587640166282654,societal impact
+impact of the COVID-19 pandemic on science and technology,variant,0.3419410288333893,societal impact
+Impact of the COVID-19 pandemic on sports in the Republic of Ireland,variant,0.45487844944000244,societal impact
+impact of the COVID-19 pandemic on television,variant,0.4499627351760864,societal impact
+Impact of the COVID-19 pandemic on television in the United States,disease,0.5874691009521484,societal impact
+Impact of the COVID-19 pandemic on the Catholic Church,variant,0.7234153151512146,societal impact
+impact of the COVID-19 pandemic on the arts and cultural heritage,variant,0.36821138858795166,societal impact
+impact of the COVID-19 pandemic on the environment,disease,0.3973486125469208,societal impact
+impact of the COVID-19 pandemic on the meat industry in the United States,variant,0.4415736794471741,societal impact
+Imperial College COVID-19 Response Team,response,0.7323843836784363,response
+Indian Council of Medical Research,government,0.5754377245903015,government
+Indian government response to the COVID-19 pandemic,government,0.4782925248146057,response
+Infectious Diseases Hospital in Voronovskoye,facility,0.546877384185791,facility
+interferon beta-1a,treatment,0.42841315269470215,treatment
+International Vaccine Institute,vaccine,0.4837026298046112,vaccine
+international aid related to the COVID-19 pandemic,response,0.30744126439094543,government
+Irish government response to the COVID-19 pandemic,response,0.4717406928539276,response
+Jaap van Dissel,human,0.886925995349884,human
+Ad26.COV2.S,vaccine,0.5898424983024597,vaccine
+Joint Biosecurity Centre,facility,0.49811917543411255,government
+K-Quarantine,disease,0.3459467887878418,lockdown
+KD-414,vaccine,0.4611307680606842,vaccine
+Kissing the Coronavirus,variant,0.36374491453170776,other
+LYB001,vaccine,0.49277377128601074,vaccine
+Liang Wudong,human,0.7975153923034668,human
+list of notable COVID-19 deaths in South Africa,variant,0.2516491115093231,disease
+Impact of the COVID-19 pandemic on airlines,disease,0.47661715745925903,societal impact
+list of films impacted by the COVID-19 pandemic,disease,0.2815000116825104,societal impact
+list of unproven methods against COVID-19,misinformation,0.2524547278881073,misinformation
+lopinavir/ritonavir,variant,0.32429593801498413,treatment
+Luc Montagnier,human,0.6216501593589783,human
+mRNA-1283,vaccine,0.4457249045372009,vaccine
+MVC COVID-19 Vaccine,vaccine,0.7434747219085693,vaccine
+Masimo,variant,0.3005411624908447,other
+epidemiological modeling,disease,0.6072437763214111,disease
+Max Kennedy Jr.,human,0.8833990097045898,human
+mechanical filter,variant,0.42258477210998535,other
+media coverage of the COVID-19 pandemic,disease,0.34824004769325256,societal impact
+mental health during the COVID-19 pandemic,disease,0.4008728563785553,societal impact
+MigVax-101,vaccine,0.48791611194610596,vaccine
+Minhai COVID-19 vaccine,vaccine,0.5103236436843872,vaccine
+Mississippi Legislature COVID-19 outbreak,timeline,0.5076004862785339,disease
+mRNA-1273 vaccine,vaccine,0.5874488353729248,vaccine
+molnupiravir,variant,0.6254484057426453,treatment
+mucormycosis,disease,0.773928165435791,disease
+NDV-HXP-S,vaccine,0.5737873911857605,vaccine
+NHS Nightingale Birmingham,facility,0.4896811246871948,facility
+NHS Nightingale Hospital North West,variant,0.4336394667625427,facility
+NHS Nightingale Hospital Yorkshire and the Humber,facility,0.5692465305328369,facility
+Nanocovax,vaccine,0.645990788936615,vaccine
+National Expert Group on Vaccine Administration for COVID-19,vaccine,0.45630979537963867,government
+National Health Commission of the People's Republic of China,government,0.71484375,government
+New York state government response to the COVID-19 pandemic,response,0.5724786520004272,response
+Nita K. Patel,human,0.8124455213546753,human
+non-pharmaceutical intervention,variant,0.4082442820072174,treatment
+Noora,vaccine,0.3965874910354614,vaccine
+NVX-CoV2373,vaccine,0.5096011757850647,vaccine
+Novel Coronavirus Expert Meeting,response,0.33954986929893494,response
+novel coronavirus,variant,0.7903504371643066,other
+nucleoside-modified messenger RNA,variant,0.7312289476394653,other
+OCTA Research,facility,0.3906344175338745,other
+Science Table,facility,0.5092900395393372,government
+Open-source ventilator,facility,0.3966415822505951,other
+origin of COVID-19,disease,0.4831686317920685,disease
+Pandemic Severity Assessment Framework,variant,0.3119916319847107,other
+panic buying,response,0.4602009952068329,societal impact
+passenger locator form,variant,0.42777353525161743,other
+Paycheck Protection Program and Health Care Enhancement Act,response,0.2591278851032257,government
+pemivibart,response,0.22730135917663574,treatment
+Petr Arenberger,human,0.8600133061408997,human
+Plandemic,misinformation,0.4753490090370178,misinformation
+Trump administration political interference with science agencies,government,0.3100546598434448,government
+post-exertional malaise,variant,0.5114133954048157,other
+Post viral cerebellar ataxia,disease,0.7163451313972473,other
+Proning,variant,0.3901810050010681,other
+protest over responses to the coronavirus pandemic,disease,0.38459742069244385,response
+Provincial government response to the COVID-19 pandemic in Ontario,response,0.37347742915153503,response
+public health emergency of international concern,disease,0.4374203085899353,disease
+QazCovid-in,vaccine,0.49294760823249817,vaccine
+Razi Cov Pars,vaccine,0.5075471997261047,vaccine
+ReCOV,vaccine,0.35286644101142883,vaccine
+Resistiré,variant,0.49119287729263306,other
+Responses to the COVID-19 pandemic in April 2020,timeline,0.43913504481315613,response
+Responses to the COVID-19 pandemic in April 2021,timeline,0.430437833070755,response
+Responses to the COVID-19 pandemic in April 2022,response,0.6429620981216431,responses
+Responses to the COVID-19 pandemic in August 2020,timeline,0.44992268085479736,response
+Responses to the COVID-19 pandemic in August 2021,response,0.40969428420066833,response
+Responses to the COVID-19 pandemic in August 2022,response,0.6474034190177917,response
+Responses to the COVID-19 pandemic in December 2020,timeline,0.44834211468696594,response
+Responses to the COVID-19 pandemic in December 2021,response,0.6443607211112976,response
+Responses to the COVID-19 pandemic in February 2020,timeline,0.4460005462169647,response
+Responses to the COVID-19 pandemic in February 2021,timeline,0.4365759491920471,response
+Responses to the COVID-19 pandemic in February 2022,response,0.6524649262428284,response
+Responses to the COVID-19 pandemic in January 2020,timeline,0.3963862955570221,response
+responses to the COVID-19 pandemic in January 2021,timeline,0.430176317691803,response
+Responses to the COVID-19 pandemic in January 2022,response,0.6380355358123779,response
+Responses to the COVID-19 pandemic in July 2020,timeline,0.4448184669017792,response
+Responses to the COVID-19 pandemic in July 2021,response,0.40784338116645813,response
+Responses to the COVID-19 pandemic in July 2022,response,0.6490827798843384,response
+Responses to the COVID-19 pandemic in June 2020,timeline,0.43987634778022766,response
+Responses to the COVID-19 pandemic in June 2021,response,0.41458234190940857,response
+Responses to the COVID-19 pandemic in June 2022,response,0.648685097694397,response
+Responses to the COVID-19 pandemic in March 2020,timeline,0.4379355013370514,response
+Responses to the COVID-19 pandemic in March 2021,timeline,0.42931631207466125,response
+Responses to the COVID-19 pandemic in March 2022,response,0.6465054154396057,response
+Responses to the COVID-19 pandemic in May 2020,timeline,0.444683700799942,response
+Responses to the COVID-19 pandemic in May 2021,response,0.4176211655139923,response
+Responses to the COVID-19 pandemic in May 2022,response,0.6561096906661987,response
+Responses to the COVID-19 pandemic in November 2020,timeline,0.4495640993118286,response
+Responses to the COVID-19 pandemic in November 2021,response,0.6458220481872559,response
+Responses to the COVID-19 pandemic in October 2020,timeline,0.44848009943962097,response
+Responses to the COVID-19 pandemic in October 2021,response,0.6455860733985901,response
+Responses to the COVID-19 pandemic in October 2022,response,0.6509304046630859,response
+Responses to the COVID-19 pandemic in September 2020,timeline,0.4440600275993347,response
+Responses to the COVID-19 pandemic in September 2021,response,0.4094932973384857,response
+Responses to the COVID-19 pandemic in September 2022,response,0.6454837918281555,response
+Richard M. Levitan,human,0.8850763440132141,human
+River of Grace Community Church,facility,0.5409543514251709,other
+Russian government responses to the COVID-19 pandemic,government,0.4335881471633911,response
+S-268019,vaccine,0.48050713539123535,vaccine
+severe acute respiratory syndrome,disease,0.8379112482070923,disease
+SARS-CoV-1,disease,0.588391900062561,disease
+SARS-CoV-2 in mink,variant,0.3502053916454315,disease
+SARS-CoV-2 in white-tailed deer,disease,0.5072879195213318,disease
+SCB-2019,vaccine,0.47190192341804504,vaccine
+SCTV01C,vaccine,0.46278828382492065,vaccine
+"Safe, Swift and Smart Passage",variant,0.28873661160469055,other
+Sanofi–GSK COVID-19 vaccine,vaccine,0.684772789478302,vaccine
+Sanofi–Translate Bio COVID-19 vaccine,vaccine,0.45698392391204834,vaccine
+Scientific Advisory Group for Emergencies,government,0.5567419528961182,government
+Seema Yasmin,human,0.8799706101417542,human
+shortages related to the COVID-19 pandemic,variant,0.34797403216362,societal impact
+dyspnea,variant,0.5879007577896118,disease
+BBIBP-CorV,vaccine,0.49009132385253906,vaccine
+WIBP-CorV,vaccine,0.45820099115371704,vaccine
+sipavibart,treatment,0.5393496155738831,treatment
+SOBERANA 02,vaccine,0.5004981756210327,vaccine
+social impact of the COVID-19 pandemic,societal impact,0.7735435366630554,societal impact
+social impact of the COVID-19 pandemic in the United Kingdom,societal impact,0.8994881510734558,societal impact
+Sotrovimab,treatment,0.325595885515213,treatment
+source control,disease,0.37565359473228455,disease
+Gam-COVID-Vac,vaccine,0.4329901337623596,vaccine
+Statistics of the COVID-19 pandemic in Italy,disease,0.3984677195549011,disease
+Statistics of the COVID-19 pandemic in Peru,disease,0.5589947700500488,disease
+Statistics of the COVID-19 pandemic in Poland,variant,0.4567679464817047,disease
+stay-at-home order,variant,0.485677033662796,lockdown
+Stemirna COVID-19 vaccine,vaccine,0.5444254875183105,vaccine
+Stop Asian Hate,societal impact,0.5088687539100647,societal impact
+Swedish government response to the COVID-19 pandemic,government,0.48601025342941284,response
+"Waiver from certain provisions of the TRIPS Agreement for the Prevention, Containment and Treatment of COVID-19",variant,0.4074738323688507,government
+Tandon v. Newsom,timeline,0.5683557987213135,government
+Texas government response to the COVID-19 pandemic,response,0.5108645558357239,response
+The proximal origin of SARS-CoV-2,disease,0.538058340549469,disease
+timeline of the COVID-19 pandemic in August 2021,timeline,0.760102391242981,timeline
+timeline of the COVID-19 pandemic in Australia,timeline,0.7081043124198914,timeline
+timeline of the COVID-19 pandemic in California,timeline,0.7197412848472595,timeline
+timeline of the COVID-19 pandemic in Canada,timeline,0.6954623460769653,timeline
+timeline of the COVID-19 pandemic in Croatia,timeline,0.5009012818336487,timeline
+Timeline of the COVID-19 pandemic in England,timeline,0.6866392493247986,timeline
+timeline of the COVID-19 pandemic in Japan,timeline,0.6443008780479431,timeline
+timeline of the COVID-19 pandemic in July 2021,timeline,0.7618982195854187,timeline
+timeline of the COVID-19 pandemic in June 2021,timeline,0.7617615461349487,timeline
+timeline of the COVID-19 pandemic in Northern Ireland,timeline,0.6953786611557007,timeline
+Timeline of the COVID-19 pandemic in Northern Ireland,timeline,0.7201588749885559,timeline
+timeline of the COVID-19 pandemic in November 2021,timeline,0.7616927027702332,timeline
+timeline of the COVID-19 pandemic in October 2021,timeline,0.7627395987510681,timeline
+timeline of the COVID-19 pandemic in Scotland (2020),timeline,0.7561213970184326,timeline
+Timeline of the COVID-19 pandemic in Scotland,timeline,0.7042298913002014,timeline
+Timeline of the COVID-19 pandemic in South Africa,timeline,0.558228611946106,timeline
+timeline of the COVID-19 pandemic in Spain,timeline,0.6263096928596497,timeline
+timeline of the COVID-19 pandemic in Texas,timeline,0.734001100063324,timeline
+timeline of the COVID-19 pandemic in Trinidad and Tobago,timeline,0.46132802963256836,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline,0.4961489140987396,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline,0.6681883335113525,timeline
+timeline of the COVID-19 pandemic in Uruguay,timeline,0.4268103539943695,timeline
+timeline of the COVID-19 pandemic in Wales (2020),timeline,0.7368587255477905,timeline
+Timeline of the COVID-19 pandemic in Wales,timeline,0.7130391597747803,timeline
+timeline of the COVID-19 pandemic in the Republic of Ireland,timeline,0.5382775664329529,timeline
+Timeline of the COVID-19 pandemic in the Republic of Ireland,timeline,0.5709318518638611,timeline
+timeline of the COVID-19 pandemic in the Republic of Ireland,timeline,0.7141492962837219,timeline
+Timeline of the COVID-19 pandemic in the Republic of Ireland,timeline,0.5709318518638611,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6746042370796204,timeline
+Timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.7155349254608154,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6575891971588135,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6679977774620056,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6547645330429077,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6614921689033508,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6688017249107361,timeline
+timeline of the COVID-19 pandemic in the United Kingdom,timeline,0.6716548800468445,timeline
+Tomáš Cihlář,human,0.8510217666625977,human
+TURKOVAC,vaccine,0.492766797542572,vaccine
+U.S. federal government response to the COVID-19 pandemic,response,0.45833250880241394,response
+U.S. state and local government responses to the COVID-19 pandemic,government,0.2987525165081024,response
+UB-612,vaccine,0.6610950231552124,vaccine
+COVID-19 public inquiry in the United Kingdom,variant,0.1717783361673355,government
+UK Coronavirus Cancer Monitoring Project,variant,0.4359516203403473,other
+UN COVID-19 Supply Chain Task Force,variant,0.394567608833313,government
+USS Theodore Roosevelt,variant,0.5378990173339844,other
+umifenovir,variant,0.5838367938995361,treatment
+United Kingdom responses to the COVID-19 pandemic,response,0.6286827325820923,response
+United Nations' response to the COVID-19 pandemic,response,0.656201958656311,response
+United States responses to the COVID-19 pandemic,response,0.6184782981872559,response
+V-01,vaccine,0.4935714602470398,vaccine
+VBI-2902,vaccine,0.49645110964775085,vaccine
+Vabiotech COVID-19 vaccine,vaccine,0.6003190875053406,vaccine
+Vaccine Hunters Canada,vaccine,0.3551236093044281,vaccine
+Vaccine line jumping,vaccine,0.5676714181900024,vaccine
+Valneva COVID-19 vaccine,vaccine,0.579037070274353,vaccine
+Vaxart COVID-19 vaccine,vaccine,0.5446978211402893,vaccine
+Humbertium covidum,variant,0.40407493710517883,other
+viral vector vaccine,vaccine,0.5763089060783386,vaccine
+W. Ian Lipkin,human,0.8339577317237854,human
+Walvax COVID-19 vaccine,vaccine,0.5453290343284607,vaccine
+wastewater surveillance,variant,0.5747712254524231,other
+West China Hospital COVID-19 vaccine,vaccine,0.4594663381576538,vaccine
+Western States Pact,variant,0.28418847918510437,government
+White House COVID-19 Response Team,government,0.6596455574035645,response
+Wuhan Institute of Virology,facility,0.7567322254180908,facility
+Wuhan Jinyintan Hospital,facility,0.8188172578811646,facility
+Youyang Gu COVID model,disease,0.7307071685791016,disease
+Anhui Zhifei Longcom Biopharmaceutical COVID-19 vaccine candidate,vaccine,0.6257866621017456,vaccine
