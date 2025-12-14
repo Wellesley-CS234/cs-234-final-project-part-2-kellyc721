@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.set_page_config(
+    page_title="COVID-19 Public Interest Analysis",
     layout="wide"
 )
 st.sidebar.title("Table of Contents")
