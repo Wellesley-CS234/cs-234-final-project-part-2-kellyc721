@@ -29,28 +29,26 @@ def load_data():
 df = load_data()
 df["date"] = pd.to_datetime(df["date"])
 
-st.markdown("<a name='overview'></a>", unsafe_allow_html=True)
-st.title("Shifts in COVID-19 Global Public Interest")
+st.title("Shifts in COVID-19 Global Public Interest", anchor="overview")
 st.markdown("#### **How has public engagement in COVID-19 shifted during the post-pandemic period, as reflected in Wikipedia pageviews from 2023–2024?**")
 
 st.write("This dashboard explores how interest in COVID-19 evolved since the height of the pandemic. As of May 2023, the World Health Organization declared an end to the COVID-19 pandemic. By using Wikipedia pageviews as a proxy of engagement for COVID-19-related" \
 " articles from 2023 to 2024, we can measure popularity and interest within this topic over time. This analysis can help us understand whether public attention to COVID-19 has declined, " \
 "retained, or shifted to specific aspects of COVID-19 in the post-pandemic period.")
 
-st.write('Through this investigation, I expect to find that overall public engagement in COVID-19 has declined post-pandemic from 2023 to 2024. \
-However, certain topics within the broader COVID-19 context are also expected to have shifted from categories such as "disease" and "lockdown" to "societal impact" over time as the pandemic period passes.')
+st.write('Through this investigation, my hypothesis is that overall public engagement in COVID-19 has declined post-pandemic from 2023 to 2024. \
+However, I also hypothesize that certain topics within the broader COVID-19 context are also expected to have shifted from categories such as "disease" and "lockdown" to "societal impact" over time as the pandemic period passes.')
 
 st.markdown("""
-**See main findings at:**
+**See main findings with hypothesis testing at:**
 - [Total Pageviews Over Time](#total-pageviews)
 - [Category Popularity Over Time](#category-popularity)
 """, unsafe_allow_html=True)
 
 
-# -------- Data Summary --------
-st.markdown("<a name='data-summary'></a>", unsafe_allow_html=True)
 
-st.subheader("Data Summary")
+# -------- Data Summary --------
+st.subheader("Data Summary", anchor="data-summary")
 st.write("The dataset consists of articles from the WikiProject COVID-19 Wikipedia page with their respective pageviews from 02-06-2023 to 12-31-2024. Only articles with **top**, **high**, and **medium** importance levels were included for relevancy. QIDs were matched with all Wikipedia data to get global pageviews.")
 st.write("Preview of the raw data:")
 st.dataframe(df.head())
@@ -69,10 +67,7 @@ with col3:
     st.write(f"{df['pageviews'].mean():.2f}")
 
 # -------- Total Pageviews Over Time --------
-st.markdown("<a name='total-pageviews'></a>", unsafe_allow_html=True)
-
-st.subheader("Total COVID-19 Pageviews Over Time")
-
+st.subheader("Total COVID-19 Pageviews Over Time", anchor="total-pageviews")
 def load_peak_data():
     df = pd.read_csv("data/known_peaks.csv")
     return df
@@ -180,9 +175,7 @@ bar_year = alt.Chart(yearly).mark_bar().encode(
 st.altair_chart(bar_year, use_container_width=True)
 
 # -------- Top Articles by Total Views --------
-st.markdown("<a name='top-articles'></a>", unsafe_allow_html=True)
-
-st.subheader("Top 10 Most Popular COVID-19 Articles (2023–2024)")
+st.subheader("Top 10 Most Popular COVID-19 Articles (2023–2024)", anchor="top-articles")
 
 top_articles = (
     df.groupby("article")["pageviews"]
@@ -269,12 +262,10 @@ monthly_chart = (
 st.altair_chart(monthly_chart, use_container_width=True)
 
 # -------- Category Analysis by Text Classification --------
-st.markdown("<a name='category-classification'></a>", unsafe_allow_html=True)
+st.subheader("English COVID-19 Articles Category Classification", anchor="category-classification")
 
-st.subheader("COVID-19 Articles Category Classification")
-
-st.write("API calls to the Wikidata database were used to retrieve the label, description, and relevant attributes for each COVID-19 article given its QID. These semantic features were then compiled to assign the category classifcation of the article.")
-st.write("To test a text classification technique, articles were classified into one of 12 predicted candidate categories, shown below in the left table, using **zero-shot text classification**. The dataframe on the right displays a preview of the predicted categories for each article, the probability scores, and the true category (ground truth).")
+st.write("API calls to the Wikidata database were used to retrieve the label, description, and relevant attributes for only English COVID-19 articles given its QID. These semantic features were then compiled and feature engineered to assign the true category classifcation of the article.")
+st.write("To test a text classification technique, English COVID-19 articles were classified into one of 12 predicted candidate categories, shown below in the left table, using **zero-shot text classification**. The dataframe on the right displays a preview of the predicted categories for each article, the probability scores, and the true category (ground truth).")
 st.write('**Zero-shot classification model**: "facebook/bart-large-mnli" from Hugging Face')
 candidate_categories = [
     "misinformation",
@@ -323,7 +314,7 @@ gt_counts["type"] = "True"
 
 combined = pd.concat([pred_counts, gt_counts], ignore_index=True)
 
-st.markdown("#### Predicted vs. True Category Distribution of Articles")
+st.markdown("#### Predicted vs. True Category Distribution of English Articles")
 
 st.write('The "other" category resulted from articles that did not fit into any of the candidate categories and were thus placed into this category when classifying ground truth labels. The zero-shot text classifer did not have "other" in the candidate labels, so it seems that those unclear articles were misclassified as mostly "variant"-type articles.')
 
@@ -350,7 +341,7 @@ st.plotly_chart(fig)
 # Text Classification Evaluation
 
 st.markdown("#### Text Classification Evaluation")
-
+st.write("Below displays the prediction accuracy the classifier achieved for each ground truth category. Refer to the above bar chart for ground truth article distributions.")
 df_category["correct"] = (df_category["predicted_label"] == df_category["ground_truth"]).astype(int)
 
 accuracy = (
@@ -375,12 +366,11 @@ with col4:
     st.markdown("##### F1-Score:")
     st.write('0.5804')
 
-st.write('The zero-shot text classification model achieved an accuracy of 67.94%, which is adequate, but definitely can be improved. It seems to have achieved perfect accuracy for classifying articles into the "misinformation", "timeline", and "variant" categories, but did the poorest on classifying "societal impact" articles (excluding "other").')
+st.write('The zero-shot text classification model achieved an accuracy of 67.94%, which is adequate, but definitely can be improved, especially considering the classifer was only applied to English COVID-19 articles and not the complete dataset. It seems to have achieved perfect accuracy for classifying articles into the "misinformation", "timeline", and "variant" categories, but did the poorest on classifying "societal impact" articles (excluding "other").')
 
 # -------- Category Popularity of COVID-19 Articles Over Time --------
-st.markdown("<a name='category-popularity'></a>", unsafe_allow_html=True)
 
-st.subheader('Category Popularity of COVID-19 Articles Over Time')
+st.subheader('Category Popularity of COVID-19 Articles Over Time', anchor="category-popularity")
 
 st.write('The below visualizations depict how popularity and interest in specific COVID-19 article categories have changed from 2023 to 2024. The most notable trend is the sharp decrease in the "disease" category from February to March 2023, largely due to the exceedingly high pageviews from the "Coronavirus" article (classified as "disease") on February 24, 2023.' \
 ' The "disease" articles stay relatively high and consistent in pageviews for the rest of the time period, and no other categories seemed to have significantly different patterns over time. However, "human" articles appear to have increased pageviews during October 2023. Additionally, pageviews for articles in the "societal impact" category are also relatively consistent from 2023 to 2024.')
@@ -439,9 +429,8 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 # --------  Summary and Ethical Considerations --------
-st.markdown("<a name='summary'></a>", unsafe_allow_html=True)
 
-st.subheader("Summary")
+st.subheader("Summary", anchor="summary")
 
 st.markdown("#### Key Takeaways")
 st.write('This analysis investigated how public interest in COVID-19 topics has changed during the post-pandemic era, specifically from 2023 to 2024, ' \
@@ -455,9 +444,10 @@ st.write("Although this analysis is true to numbers as it uses direct real-time 
 " Additionally, traffic accrued may not represent actual interest and engagement in the article.")
 st.write("Moreover, the COVID-19 articles collected from WikiProject COVID-19 for this analysis only included top, high, and medium importance articles for the sake of relevancy and efficiency. The majority of articles in the list are of low or unrated importance. This means the dataset is incomplete and may bias results toward more prominent topics.")
 st.write("Classifying ground truth labels for the COVID-19 articles was difficult as the Wikidata results had different instances for every article. Therefore, ground truth categories were dervied from keyword extraction and some manual interpretation. Inconsistencies in these labels will affect analyses that use this data.")
+st.write("One last important limitation is the dataset used for zero-shot text classification. Only English COVID-19 articles were collected and used due to constraints with establishing ground truth, so the classification model is not applicable to all COVID-19 articles. In any case, because the classifier was not performing greatly, it was not responsible of me to apply to the whole dataset. However, the data for category popularity distribution over time is more representative as QIDs were matched to the complete dataset to generate a larger sample.")
 
 st.markdown("#### Reliability and Accuracy")
-st.write('Zero-shot text classification was used for predicting COVID-19 article categories. Results indicated that the classifier model did well for more clearly-defined topics like "variant", but less so for broader and overlapping topics like "societal impact" and "response". While this classification is sufficient, it should not be used as a completely reliable model.')
+st.write('Zero-shot text classification was used for predicting COVID-19 article categories. Aside from the concerns listed above, results indicated that the classifier model did well for more clearly-defined topics like "variant", but less so for broader and overlapping topics like "societal impact" and "response" within English articles. It should not be used as a completely reliable model.')
 
 st.markdown("#### Ethical Considerations")
 st.write("As stated, Wikipedia is not accessible for everyone globally, so Wikipedia use reflects biases in internet access, demographic, and geography/region. Most Wikipedia users are English speakers from the United States, disproportionately representing Wikipedia usage.")
